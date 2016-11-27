@@ -373,11 +373,11 @@ header h1 a img {
 }
 
 .block1 .count {
-    width: 119px;
+    width: 85px;
     margin: 0 auto;
-    height: 119px;
+    height: 85px;
     text-align: center;
-    font: 40px/116px 'Dosis', sans-serif;
+    font: 50px/85px 'Dosis', sans-serif;
     border-radius: 500px;
     border: 1px solid #939393;
     margin-bottom: 25px;
@@ -386,6 +386,7 @@ header h1 a img {
 .block1 {
     text-align: center;
     padding: 49px 0;
+    font-size: 16px;
 }
 
 .box {
